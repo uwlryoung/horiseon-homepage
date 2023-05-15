@@ -1,5 +1,6 @@
 # Horiseon Homepage
 
+## Description
 The homepage for Horiseon Social Solution Services, Inc.
 
 [Horiseon Webpage](https://uwlryoung.github.io/horiseon-homepage)
@@ -13,6 +14,7 @@ The initial homepage code was missing alt text for images, had redundant code, a
 - CSS tags were re-arranged in a logical order
 - Title given to the homepage
 
+### Screenshot of Homepage
 ![Horiseon Homepage](/assets/Horieson%20Website%20Screenshot.html.png)
 
 
@@ -22,8 +24,11 @@ Standard webpage.
 ## Credits
 ### Useful Links
 [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
 [How to write README](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/) - Thank you Rhon from class for sharing this
+
 [When to use Figure vs Img](https://www.learningjournal.guru/article/html5/html5-when-to-use-figure-tag/)
+
 [How to write Good alt text](https://supercooldesign.co.uk/blog/how-to-write-good-alt-text)
 
 ## License
